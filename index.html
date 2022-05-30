@@ -1,31 +1,74 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>샘플</title>
- 
-  <script src="main.js" defer></script>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>수학문제</title>
+  
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
 </head>
 <body>
-  <div>
-    <h4>
-      수리지능모델용 수학문제 
-    </h4>
-    <ul>
-      <a href="https://github.com/juyong203/korean-math-problems">수학문제 바로가기</a>
-    </ul>
-  </div>
-  
-  <main>
-    <button>불러오기</button>
-    <pre id="log">
-      (데이터를 표시하는 영역)
-    </pre>
-  </main>
-  
-  
+    <div>
+        <h4>
+            수리지능모델용 수학문제 
+        </h4>
+    
+        <ul>
+            <a href="https://github.com/juyong203/korean-math-problems">수학문제 공개사이트(https://github.com/juyong203/korean-math-problems)</a>
+        </ul>
+    </div>
 
+    <div class="emptyheight"> </div>  
+
+    <input type="checkbox" name="color" id="chk1" value="blue">정답 표시</label> 
+    <input type="checkbox" name="color" id="chk2" value="blue">식 표시</label>
+
+    <div id="cols1">
+        
+            <button class="btn" onclick="number11()" id="number1" >수찾기1</button>
+            <button class="btn" onclick="number12()" id="number2" >수찾기2</button>
+            <button class="btn" onclick="number13()" id="number3" >수찾기3</button>
+            <button class="btn" onclick="number14()" id="number4" >수찾기4</button>
+            <button class="btn" onclick="number15()" id="number5" >수찾기5</button>
+        <br>
+            <button class="btn" onclick="geometry11()" id="geometry1" > 도형1</button>
+            <button class="btn" onclick="geometry12()" id="geometry2" > 도형2</button>
+            <button class="btn" onclick="geometry13()" id="geometry3" > 도형3</button>
+            <button class="btn" onclick="geometry14()" id="geometry4" > 도형4</button>
+            <button class="btn" onclick="geometry15()" id="geometry5" > 도형5</button>
+        <br>
+            <button class="btn" onclick="combi11()" id="combi1" > 조합1</button>
+            <button class="btn" onclick="combi12()" id="combi2" > 조합2</button>
+            <button class="btn" onclick="combi13()" id="combi3" > 조합3</button>
+            <button class="btn" onclick="combi14()" id="combi4" > 조합4</button>
+        <br>
+            <button class="btn" onclick="unknown11()" id="unknown1" >미지수채우기1</button>
+            <button class="btn" onclick="unknown12()" id="unknown2" >미지수채우기2</button>
+        
+    </div>  
+
+    <div class="emptyheight"> </div>  
+
+
+    <div>
+        <button style="border-color:blue; background-color:green; color:red;" id="left-arrow" onclick="decreaseNum()" >◀</button>
+
+        <input type="text" name="myText" id="myText" value="1" onkeyup="if(window.event.keyCode==13) { callProblem() }" />
+        <button style="border-color:blue; background-color:green; color:red;"  id="rigth-arrow" onclick="increaseNum()"  >▶</button>
+    </div>
+
+    <div id="log"  class="mybox">    </div>
+ 
+    <div class="emptyheight"> </div>   
+
+    <div id="log2" class="mybox2">   </div>
+  
+      
+    <div class="emptyheight"> </div>         
+      
+    <div id="log3" class="mybox3">   </div> 
+ 
+ 
 </body>
 </html>
-
