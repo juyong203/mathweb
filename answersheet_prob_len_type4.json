@@ -1,0 +1,114 @@
+{
+    "1": {
+        "answer": "9",
+        "equation": "print(str(int((12*3/4))))"
+    },
+    "2": {
+        "answer": "9",
+        "equation": "print(str(int((15*3/5))))"
+    },
+    "3": {
+        "answer": "5",
+        "equation": "print(str(int((10*3/6))))"
+    },
+    "4": {
+        "answer": "15",
+        "equation": "print(str(int((35*3/7))))"
+    },
+    "5": {
+        "answer": "15",
+        "equation": "print(str(int((40*3/8))))"
+    },
+    "6": {
+        "answer": "5",
+        "equation": "print(str(int((15*3/9))))"
+    },
+    "7": {
+        "answer": "15",
+        "equation": "print(str(int((50*3/10))))"
+    },
+    "8": {
+        "answer": "20",
+        "equation": "print(str(int((25*4/5))))"
+    },
+    "9": {
+        "answer": "6",
+        "equation": "print(str(int((9*4/6))))"
+    },
+    "10": {
+        "answer": "16",
+        "equation": "print(str(int((28*4/7))))"
+    },
+    "11": {
+        "answer": "6",
+        "equation": "print(str(int((12*4/8))))"
+    },
+    "12": {
+        "answer": "24",
+        "equation": "print(str(int((54*4/9))))"
+    },
+    "13": {
+        "answer": "6",
+        "equation": "print(str(int((15*4/10))))"
+    },
+    "14": {
+        "answer": "15",
+        "equation": "print(str(int((18*5/6))))"
+    },
+    "15": {
+        "answer": "15",
+        "equation": "print(str(int((21*5/7))))"
+    },
+    "16": {
+        "answer": "25",
+        "equation": "print(str(int((40*5/8))))"
+    },
+    "17": {
+        "answer": "15",
+        "equation": "print(str(int((27*5/9))))"
+    },
+    "18": {
+        "answer": "3",
+        "equation": "print(str(int((6*5/10))))"
+    },
+    "19": {
+        "answer": "18",
+        "equation": "print(str(int((21*6/7))))"
+    },
+    "20": {
+        "answer": "18",
+        "equation": "print(str(int((24*6/8))))"
+    },
+    "21": {
+        "answer": "14",
+        "equation": "print(str(int((21*6/9))))"
+    },
+    "22": {
+        "answer": "12",
+        "equation": "print(str(int((20*6/10))))"
+    },
+    "23": {
+        "answer": "21",
+        "equation": "print(str(int((24*7/8))))"
+    },
+    "24": {
+        "answer": "35",
+        "equation": "print(str(int((45*7/9))))"
+    },
+    "25": {
+        "answer": "49",
+        "equation": "print(str(int((70*7/10))))"
+    },
+    "26": {
+        "answer": "56",
+        "equation": "print(str(int((63*8/9))))"
+    },
+    "27": {
+        "answer": "24",
+        "equation": "print(str(int((30*8/10))))"
+    },
+    "28": {
+        "answer": "63",
+        "equation": "print(str(int((70*9/10))))"
+    }
+}

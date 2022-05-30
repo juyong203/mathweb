@@ -1,0 +1,194 @@
+{
+    "1": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "2": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "3": {
+        "answer": "10",
+        "equation": "print(str(int(math.comb(5,3))))"
+    },
+    "4": {
+        "answer": "56",
+        "equation": "print(str(int(math.comb(8,3))))"
+    },
+    "5": {
+        "answer": "10",
+        "equation": "print(str(int(math.comb(5,3))))"
+    },
+    "6": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "7": {
+        "answer": "10",
+        "equation": "print(str(int(math.comb(5,3))))"
+    },
+    "8": {
+        "answer": "4",
+        "equation": "print(str(int(math.comb(4,3))))"
+    },
+    "9": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "10": {
+        "answer": "4",
+        "equation": "print(str(int(math.comb(4,3))))"
+    },
+    "11": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "12": {
+        "answer": "20",
+        "equation": "print(str(int(math.comb(6,3))))"
+    },
+    "13": {
+        "answer": "126",
+        "equation": "print(str(int(math.comb(9,4))))"
+    },
+    "14": {
+        "answer": "5",
+        "equation": "print(str(int(math.comb(5,4))))"
+    },
+    "15": {
+        "answer": "35",
+        "equation": "print(str(int(math.comb(7,4))))"
+    },
+    "16": {
+        "answer": "126",
+        "equation": "print(str(int(math.comb(9,4))))"
+    },
+    "17": {
+        "answer": "15",
+        "equation": "print(str(int(math.comb(6,4))))"
+    },
+    "18": {
+        "answer": "70",
+        "equation": "print(str(int(math.comb(8,4))))"
+    },
+    "19": {
+        "answer": "70",
+        "equation": "print(str(int(math.comb(8,4))))"
+    },
+    "20": {
+        "answer": "15",
+        "equation": "print(str(int(math.comb(6,4))))"
+    },
+    "21": {
+        "answer": "5",
+        "equation": "print(str(int(math.comb(5,4))))"
+    },
+    "22": {
+        "answer": "70",
+        "equation": "print(str(int(math.comb(8,4))))"
+    },
+    "23": {
+        "answer": "35",
+        "equation": "print(str(int(math.comb(7,4))))"
+    },
+    "24": {
+        "answer": "35",
+        "equation": "print(str(int(math.comb(7,4))))"
+    },
+    "25": {
+        "answer": "252",
+        "equation": "print(str(int(math.comb(10,5))))"
+    },
+    "26": {
+        "answer": "252",
+        "equation": "print(str(int(math.comb(10,5))))"
+    },
+    "27": {
+        "answer": "252",
+        "equation": "print(str(int(math.comb(10,5))))"
+    },
+    "28": {
+        "answer": "56",
+        "equation": "print(str(int(math.comb(8,5))))"
+    },
+    "29": {
+        "answer": "56",
+        "equation": "print(str(int(math.comb(8,5))))"
+    },
+    "30": {
+        "answer": "6",
+        "equation": "print(str(int(math.comb(6,5))))"
+    },
+    "31": {
+        "answer": "252",
+        "equation": "print(str(int(math.comb(10,5))))"
+    },
+    "32": {
+        "answer": "6",
+        "equation": "print(str(int(math.comb(6,5))))"
+    },
+    "33": {
+        "answer": "6",
+        "equation": "print(str(int(math.comb(6,5))))"
+    },
+    "34": {
+        "answer": "6",
+        "equation": "print(str(int(math.comb(6,5))))"
+    },
+    "35": {
+        "answer": "252",
+        "equation": "print(str(int(math.comb(10,5))))"
+    },
+    "36": {
+        "answer": "126",
+        "equation": "print(str(int(math.comb(9,5))))"
+    },
+    "37": {
+        "answer": "462",
+        "equation": "print(str(int(math.comb(11,6))))"
+    },
+    "38": {
+        "answer": "462",
+        "equation": "print(str(int(math.comb(11,6))))"
+    },
+    "39": {
+        "answer": "210",
+        "equation": "print(str(int(math.comb(10,6))))"
+    },
+    "40": {
+        "answer": "462",
+        "equation": "print(str(int(math.comb(11,6))))"
+    },
+    "41": {
+        "answer": "84",
+        "equation": "print(str(int(math.comb(9,6))))"
+    },
+    "42": {
+        "answer": "7",
+        "equation": "print(str(int(math.comb(7,6))))"
+    },
+    "43": {
+        "answer": "7",
+        "equation": "print(str(int(math.comb(7,6))))"
+    },
+    "44": {
+        "answer": "28",
+        "equation": "print(str(int(math.comb(8,6))))"
+    },
+    "45": {
+        "answer": "462",
+        "equation": "print(str(int(math.comb(11,6))))"
+    },
+    "46": {
+        "answer": "84",
+        "equation": "print(str(int(math.comb(9,6))))"
+    },
+    "47": {
+        "answer": "84",
+        "equation": "print(str(int(math.comb(9,6))))"
+    },
+    "48": {
+        "answer": "210",
+        "equation": "print(str(int(math.comb(10,6))))"
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "answer": "2",
+        "equation": "dic_t={'A': 7, 'B': 2}\nprint( dic_t['B'] )"
+    },
+    "2": {
+        "answer": "9",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 7, 'B': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "3": {
+        "answer": "9",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 7, 'B': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "4": {
+        "answer": "5",
+        "equation": "dic_t={'A': 7, 'B': 2}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "5": {
+        "answer": "4",
+        "equation": "dic_t={'C': 3, 'A': 5, 'B': 4}\nprint( dic_t['B'] )"
+    },
+    "6": {
+        "answer": "12",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'B': 4, 'A': 8, 'C': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "7": {
+        "answer": "18",
+        "equation": "dic_t={'C': 2, 'B': 9, 'A': 7}\nprint(str(abs(int(dic_t['B'])*int(dic_t['C']))))"
+    },
+    "8": {
+        "answer": "6",
+        "equation": "dic_t={'A': 7, 'C': 1, 'B': 2}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "9": {
+        "answer": "8",
+        "equation": "dic_t={'A': 4, 'B': 6, 'C': 8}\nprint( dic_t['C'] )"
+    },
+    "10": {
+        "answer": "2",
+        "equation": "dic_t={'C': 2, 'B': 5, 'A': 4}\nprint( dic_t['C'] )"
+    },
+    "11": {
+        "answer": "2",
+        "equation": "dic_t={'C': 4, 'A': 6, 'B': 6}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "12": {
+        "answer": "14",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'B': 5, 'A': 9, 'C': 8}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "13": {
+        "answer": "4",
+        "equation": "dic_t={'C': 6, 'B': 4, 'A': 8}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "14": {
+        "answer": "1",
+        "equation": "dic_t={'C': 5, 'A': 3, 'B': 4}\nprint(str(abs(int(dic_t['B'])-int(dic_t['A']))))"
+    },
+    "15": {
+        "answer": "10",
+        "equation": "dic_t={'B': 7, 'A': 2, 'C': 5}\nprint(str(abs(int(dic_t['A'])*int(dic_t['C']))))"
+    },
+    "16": {
+        "answer": "3",
+        "equation": "dic_t={'A': 2, 'B': 3, 'C': 3, 'D': 3}\nprint( dic_t['B'] )"
+    },
+    "17": {
+        "answer": "17",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 9, 'B': 8, 'C': 3, 'D': 1}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "18": {
+        "answer": "20",
+        "equation": "dic_t={'A': 1, 'B': 4, 'C': 5, 'D': 6}\nprint(str(abs(int(dic_t['B'])*int(dic_t['C']))))"
+    },
+    "19": {
+        "answer": "0",
+        "equation": "dic_t={'A': 3, 'B': 9, 'C': 2, 'D': 3}\nprint(str(abs(int(dic_t['A'])-int(dic_t['D']))))"
+    },
+    "20": {
+        "answer": "5",
+        "equation": "dic_t={'A': 1, 'B': 6, 'C': 5, 'D': 5}\nprint( dic_t['C'] )"
+    },
+    "21": {
+        "answer": "1",
+        "equation": "dic_t={'A': 1, 'B': 8, 'C': 1, 'D': 8}\nprint( dic_t['C'] )"
+    },
+    "22": {
+        "answer": "7",
+        "equation": "dic_t={'A': 2, 'B': 5, 'C': 9, 'D': 6}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "23": {
+        "answer": "7",
+        "equation": "k_num=['C', 'D']\nlen_k = len(k_num)  \ndic_t={'A': 5, 'B': 1, 'C': 5, 'D': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "24": {
+        "answer": "1",
+        "equation": "dic_t={'A': 4, 'B': 4, 'C': 8, 'D': 7}\nprint(str(abs(int(dic_t['C'])-int(dic_t['D']))))"
+    },
+    "25": {
+        "answer": "3",
+        "equation": "dic_t={'A': 5, 'B': 3, 'C': 6, 'D': 8}\nprint(str(abs(int(dic_t['D'])-int(dic_t['A']))))"
+    },
+    "26": {
+        "answer": "12",
+        "equation": "dic_t={'A': 2, 'B': 1, 'C': 6, 'D': 1}\nprint(str(abs(int(dic_t['A'])*int(dic_t['C']))))"
+    },
+    "27": {
+        "answer": "5",
+        "equation": "dic_t={'A': 3, 'B': 5, 'C': 6}\nprint( dic_t['B'] )"
+    },
+    "28": {
+        "answer": "11",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 2, 'B': 9, 'C': 3}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "29": {
+        "answer": "9",
+        "equation": "dic_t={'A': 5, 'B': 1, 'C': 9}\nprint(str(abs(int(dic_t['B'])*int(dic_t['C']))))"
+    },
+    "30": {
+        "answer": "1",
+        "equation": "dic_t={'A': 8, 'B': 7, 'C': 4}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "31": {
+        "answer": "8",
+        "equation": "dic_t={'A': 5, 'B': 6, 'C': 8}\nprint( dic_t['C'] )"
+    },
+    "32": {
+        "answer": "3",
+        "equation": "dic_t={'A': 3, 'B': 9, 'C': 3}\nprint( dic_t['C'] )"
+    },
+    "33": {
+        "answer": "0",
+        "equation": "dic_t={'A': 4, 'B': 5, 'C': 4}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "34": {
+        "answer": "12",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 5, 'B': 5, 'C': 7}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "35": {
+        "answer": "8",
+        "equation": "dic_t={'A': 1, 'B': 9, 'C': 4}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "36": {
+        "answer": "4",
+        "equation": "dic_t={'A': 5, 'B': 9, 'C': 5}\nprint(str(abs(int(dic_t['B'])-int(dic_t['A']))))"
+    },
+    "37": {
+        "answer": "49",
+        "equation": "dic_t={'A': 7, 'B': 3, 'C': 7}\nprint(str(abs(int(dic_t['A'])*int(dic_t['C']))))"
+    },
+    "38": {
+        "answer": "5",
+        "equation": "dic_t={'A': 7, 'B': 2}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "39": {
+        "answer": "14",
+        "equation": "dic_t={'A': 7, 'B': 2}\nprint(str(abs(int(dic_t['A'])*int(dic_t['B']))))"
+    },
+    "40": {
+        "answer": "4",
+        "equation": "dic_t={'A': 4, 'B': 5}\nprint( dic_t['A'] )"
+    }
+}

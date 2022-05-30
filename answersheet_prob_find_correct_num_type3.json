@@ -1,0 +1,482 @@
+{
+    "1": {
+        "answer": "2324",
+        "equation": "print(str(int((1176+(1176-28)))))"
+    },
+    "2": {
+        "answer": "2898",
+        "equation": "print(str(int((1470+(1470-42)))))"
+    },
+    "3": {
+        "answer": "1675",
+        "equation": "print(str(int((850+(850-25)))))"
+    },
+    "4": {
+        "answer": "1247",
+        "equation": "print(str(int((638+(638-29)))))"
+    },
+    "5": {
+        "answer": "1113",
+        "equation": "print(str(int((567+(567-21)))))"
+    },
+    "6": {
+        "answer": "1470",
+        "equation": "print(str(int((750+(750-30)))))"
+    },
+    "7": {
+        "answer": "2091",
+        "equation": "print(str(int((1066+(1066-41)))))"
+    },
+    "8": {
+        "answer": "2635",
+        "equation": "print(str(int((1333+(1333-31)))))"
+    },
+    "9": {
+        "answer": "1350",
+        "equation": "print(str(int((690+(690-30)))))"
+    },
+    "10": {
+        "answer": "1587",
+        "equation": "print(str(int((805+(805-23)))))"
+    },
+    "11": {
+        "answer": "94",
+        "equation": "print(str(int((90+(360/90)))))"
+    },
+    "12": {
+        "answer": "387",
+        "equation": "print(str(int((380+(2660/380)))))"
+    },
+    "13": {
+        "answer": "196",
+        "equation": "print(str(int((190+(1140/190)))))"
+    },
+    "14": {
+        "answer": "353",
+        "equation": "print(str(int((340+(4420/340)))))"
+    },
+    "15": {
+        "answer": "91",
+        "equation": "print(str(int((85+(510/85)))))"
+    },
+    "16": {
+        "answer": "209",
+        "equation": "print(str(int((195+(2730/195)))))"
+    },
+    "17": {
+        "answer": "52",
+        "equation": "print(str(int((48+(192/48)))))"
+    },
+    "18": {
+        "answer": "199",
+        "equation": "print(str(int((195+(780/195)))))"
+    },
+    "19": {
+        "answer": "109",
+        "equation": "print(str(int((99+(990/99)))))"
+    },
+    "20": {
+        "answer": "89",
+        "equation": "print(str(int((77+(924/77)))))"
+    },
+    "21": {
+        "answer": "484",
+        "equation": "print(str(int((480+(480/120)))))"
+    },
+    "22": {
+        "answer": "1269",
+        "equation": "print(str(int((1260+(1260/140)))))"
+    },
+    "23": {
+        "answer": "1661",
+        "equation": "print(str(int((1650+(1650/150)))))"
+    },
+    "24": {
+        "answer": "1519",
+        "equation": "print(str(int((1512+(1512/216)))))"
+    },
+    "25": {
+        "answer": "1044",
+        "equation": "print(str(int((1040+(1040/260)))))"
+    },
+    "26": {
+        "answer": "1210",
+        "equation": "print(str(int((1200+(1200/120)))))"
+    },
+    "27": {
+        "answer": "2535",
+        "equation": "print(str(int((2520+(2520/168)))))"
+    },
+    "28": {
+        "answer": "539",
+        "equation": "print(str(int((528+(528/48)))))"
+    },
+    "29": {
+        "answer": "776",
+        "equation": "print(str(int((768+(768/96)))))"
+    },
+    "30": {
+        "answer": "432",
+        "equation": "print(str(int((420+(420/35)))))"
+    },
+    "31": {
+        "answer": "245",
+        "equation": "print(str(int((441-(637-441)))))"
+    },
+    "32": {
+        "answer": "192",
+        "equation": "print(str(int((320-(448-320)))))"
+    },
+    "33": {
+        "answer": "63",
+        "equation": "print(str(int((168-(273-168)))))"
+    },
+    "34": {
+        "answer": "210",
+        "equation": "print(str(int((378-(546-378)))))"
+    },
+    "35": {
+        "answer": "243",
+        "equation": "print(str(int((270-(297-270)))))"
+    },
+    "36": {
+        "answer": "240",
+        "equation": "print(str(int((432-(624-432)))))"
+    },
+    "37": {
+        "answer": "87",
+        "equation": "print(str(int((232-(377-232)))))"
+    },
+    "38": {
+        "answer": "195",
+        "equation": "print(str(int((312-(429-312)))))"
+    },
+    "39": {
+        "answer": "266",
+        "equation": "print(str(int((342-(418-342)))))"
+    },
+    "40": {
+        "answer": "162",
+        "equation": "print(str(int((243-(324-243)))))"
+    },
+    "41": {
+        "answer": "194",
+        "equation": "print(str(int((200-(1200/200)))))"
+    },
+    "42": {
+        "answer": "110",
+        "equation": "print(str(int((119-(1071/119)))))"
+    },
+    "43": {
+        "answer": "47",
+        "equation": "print(str(int((50-(150/50)))))"
+    },
+    "44": {
+        "answer": "265",
+        "equation": "print(str(int((280-(4200/280)))))"
+    },
+    "45": {
+        "answer": "34",
+        "equation": "print(str(int((45-(495/45)))))"
+    },
+    "46": {
+        "answer": "125",
+        "equation": "print(str(int((132-(924/132)))))"
+    },
+    "47": {
+        "answer": "229",
+        "equation": "print(str(int((238-(2142/238)))))"
+    },
+    "48": {
+        "answer": "175",
+        "equation": "print(str(int((180-(900/180)))))"
+    },
+    "49": {
+        "answer": "31",
+        "equation": "print(str(int((45-(630/45)))))"
+    },
+    "50": {
+        "answer": "295",
+        "equation": "print(str(int((300-(1500/300)))))"
+    },
+    "51": {
+        "answer": "165",
+        "equation": "print(str(int((168-(168/56)))))"
+    },
+    "52": {
+        "answer": "1352",
+        "equation": "print(str(int((1365-(1365/105)))))"
+    },
+    "53": {
+        "answer": "960",
+        "equation": "print(str(int((968-(968/121)))))"
+    },
+    "54": {
+        "answer": "1771",
+        "equation": "print(str(int((1782-(1782/162)))))"
+    },
+    "55": {
+        "answer": "909",
+        "equation": "print(str(int((918-(918/102)))))"
+    },
+    "56": {
+        "answer": "717",
+        "equation": "print(str(int((720-(720/240)))))"
+    },
+    "57": {
+        "answer": "343",
+        "equation": "print(str(int((350-(350/50)))))"
+    },
+    "58": {
+        "answer": "1016",
+        "equation": "print(str(int((1024-(1024/128)))))"
+    },
+    "59": {
+        "answer": "1554",
+        "equation": "print(str(int((1568-(1568/112)))))"
+    },
+    "60": {
+        "answer": "1016",
+        "equation": "print(str(int((1024-(1024/128)))))"
+    },
+    "61": {
+        "answer": "23805",
+        "equation": "print(str(int((207*(322-207)))))"
+    },
+    "62": {
+        "answer": "27648",
+        "equation": "print(str(int((192*(336-192)))))"
+    },
+    "63": {
+        "answer": "23328",
+        "equation": "print(str(int((216*(324-216)))))"
+    },
+    "64": {
+        "answer": "47096",
+        "equation": "print(str(int((232*(435-232)))))"
+    },
+    "65": {
+        "answer": "19881",
+        "equation": "print(str(int((423*(470-423)))))"
+    },
+    "66": {
+        "answer": "36963",
+        "equation": "print(str(int((333*(444-333)))))"
+    },
+    "67": {
+        "answer": "88360",
+        "equation": "print(str(int((376*(611-376)))))"
+    },
+    "68": {
+        "answer": "92450",
+        "equation": "print(str(int((430*(645-430)))))"
+    },
+    "69": {
+        "answer": "29400",
+        "equation": "print(str(int((280*(385-280)))))"
+    },
+    "70": {
+        "answer": "36992",
+        "equation": "print(str(int((272*(408-272)))))"
+    },
+    "71": {
+        "answer": "3833280",
+        "equation": "print(str(int((1980*(1980-44)))))"
+    },
+    "72": {
+        "answer": "1219368",
+        "equation": "print(str(int((1128*(1128-47)))))"
+    },
+    "73": {
+        "answer": "1128750",
+        "equation": "print(str(int((1075*(1075-25)))))"
+    },
+    "74": {
+        "answer": "3778560",
+        "equation": "print(str(int((1968*(1968-48)))))"
+    },
+    "75": {
+        "answer": "926250",
+        "equation": "print(str(int((975*(975-25)))))"
+    },
+    "76": {
+        "answer": "1793708",
+        "equation": "print(str(int((1363*(1363-47)))))"
+    },
+    "77": {
+        "answer": "1201850",
+        "equation": "print(str(int((1118*(1118-43)))))"
+    },
+    "78": {
+        "answer": "1368576",
+        "equation": "print(str(int((1188*(1188-36)))))"
+    },
+    "79": {
+        "answer": "222180",
+        "equation": "print(str(int((483*(483-23)))))"
+    },
+    "80": {
+        "answer": "575960",
+        "equation": "print(str(int((770*(770-22)))))"
+    },
+    "81": {
+        "answer": "12800",
+        "equation": "print(str(int((1280*(1280/128)))))"
+    },
+    "82": {
+        "answer": "1440",
+        "equation": "print(str(int((360*(360/90)))))"
+    },
+    "83": {
+        "answer": "3920",
+        "equation": "print(str(int((560*(560/80)))))"
+    },
+    "84": {
+        "answer": "7290",
+        "equation": "print(str(int((810*(810/90)))))"
+    },
+    "85": {
+        "answer": "1344",
+        "equation": "print(str(int((336*(336/84)))))"
+    },
+    "86": {
+        "answer": "5440",
+        "equation": "print(str(int((680*(680/85)))))"
+    },
+    "87": {
+        "answer": "34560",
+        "equation": "print(str(int((2880*(2880/240)))))"
+    },
+    "88": {
+        "answer": "12600",
+        "equation": "print(str(int((1260*(1260/126)))))"
+    },
+    "89": {
+        "answer": "13013",
+        "equation": "print(str(int((1001*(1001/77)))))"
+    },
+    "90": {
+        "answer": "6000",
+        "equation": "print(str(int((600*(600/60)))))"
+    },
+    "91": {
+        "answer": "5",
+        "equation": "print(str(int((340/(408-340)))))"
+    },
+    "92": {
+        "answer": "8/7",
+        "equation": "val=(160/(300-160))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "93": {
+        "answer": "9/4",
+        "equation": "val=(180/(260-180))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "94": {
+        "answer": "10/3",
+        "equation": "val=(360/(468-360))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "95": {
+        "answer": "9/5",
+        "equation": "val=(342/(532-342))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "96": {
+        "answer": "9/2",
+        "equation": "val=(270/(330-270))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "97": {
+        "answer": "9",
+        "equation": "print(str(int((351/(390-351)))))"
+    },
+    "98": {
+        "answer": "2",
+        "equation": "print(str(int((384/(576-384)))))"
+    },
+    "99": {
+        "answer": "4",
+        "equation": "print(str(int((344/(430-344)))))"
+    },
+    "100": {
+        "answer": "9/5",
+        "equation": "val=(270/(420-270))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "101": {
+        "answer": "51/50",
+        "equation": "val=(2397/(2397-47))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "102": {
+        "answer": "26/25",
+        "equation": "val=(702/(702-27))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "103": {
+        "answer": "32/31",
+        "equation": "val=(1120/(1120-35))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "104": {
+        "answer": "41/40",
+        "equation": "val=(1025/(1025-25))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "105": {
+        "answer": "45/44",
+        "equation": "val=(1260/(1260-28))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "106": {
+        "answer": "43/42",
+        "equation": "val=(946/(946-22))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "107": {
+        "answer": "39/38",
+        "equation": "val=(1287/(1287-33))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "108": {
+        "answer": "29/28",
+        "equation": "val=(1276/(1276-44))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "109": {
+        "answer": "36/35",
+        "equation": "val=(1404/(1404-39))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "110": {
+        "answer": "37/36",
+        "equation": "val=(740/(740-20))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "111": {
+        "answer": "190/3",
+        "equation": "val=(380/(2280/380))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "112": {
+        "answer": "121/5",
+        "equation": "val=(121/(605/121))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "113": {
+        "answer": "40",
+        "equation": "print(str(int((320/(2560/320)))))"
+    },
+    "114": {
+        "answer": "9/2",
+        "equation": "val=(54/(648/54))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "115": {
+        "answer": "114/11",
+        "equation": "val=(114/(1254/114))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "116": {
+        "answer": "77/5",
+        "equation": "val=(154/(1540/154))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "117": {
+        "answer": "95/4",
+        "equation": "val=(190/(1520/190))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "118": {
+        "answer": "20",
+        "equation": "print(str(int((80/(320/80)))))"
+    },
+    "119": {
+        "answer": "130/3",
+        "equation": "val=(260/(1560/260))\nde=100000 \nfor i in range(1,de) : \n    m_val= i* val  \n    nu = int(m_val + 0.000001)  \n    if abs(m_val-nu) < 0.000001 : \n        de=i  \n        break  \nprint(str(nu) +'/'+ str(de))"
+    },
+    "120": {
+        "answer": "6",
+        "equation": "print(str(int((78/(1014/78)))))"
+    }
+}

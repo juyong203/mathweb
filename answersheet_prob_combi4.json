@@ -1,0 +1,42 @@
+{
+    "1": {
+        "answer": "49",
+        "equation": "print(str(int(7*7)))"
+    },
+    "2": {
+        "answer": "8",
+        "equation": "print(str(int(4*2)))"
+    },
+    "3": {
+        "answer": "4",
+        "equation": "print(str(int(2*2)))"
+    },
+    "4": {
+        "answer": "9",
+        "equation": "print(str(int(3*3)))"
+    },
+    "5": {
+        "answer": "8",
+        "equation": "print(str(int(2*4)))"
+    },
+    "6": {
+        "answer": "12",
+        "equation": "print(str(int(4.0*3.0)))"
+    },
+    "7": {
+        "answer": "20",
+        "equation": "print(str(int(5.0*4.0)))"
+    },
+    "8": {
+        "answer": "8",
+        "equation": "print(str(int(2*2*2)))"
+    },
+    "9": {
+        "answer": "6",
+        "equation": "print(math.comb(4,2))"
+    },
+    "10": {
+        "answer": "3",
+        "equation": "print(math.comb(3,2))"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "1": {
+        "answer": "18",
+        "equation": "cash=[10, 50, 100]\namount=[] \nfor i in range(3): \n    for j in range(4): \n        for k in range(2): \n            val= cash[0]*i + cash[1]*j + cash[2]*k \n            if val not in amount: \n                amount.append(val)  \nprint( str(len(amount)) ) "
+    },
+    "2": {
+        "answer": "24",
+        "equation": "cash=[10, 50, 100]\namount=[] \nfor i in range(3): \n    for j in range(4): \n        for k in range(3): \n            val= cash[0]*i + cash[1]*j + cash[2]*k \n            if val not in amount: \n                amount.append(val)  \nprint( str(len(amount)) ) "
+    },
+    "3": {
+        "answer": "18",
+        "equation": "cash=[10, 50, 100]\namount=[] \nfor i in range(3): \n    for j in range(2): \n        for k in range(3): \n            val= cash[0]*i + cash[1]*j + cash[2]*k \n            if val not in amount: \n                amount.append(val)  \nprint( str(len(amount)) ) "
+    },
+    "4": {
+        "answer": "12",
+        "equation": "cash=[1000, 5000, 10000]\namount=[] \nfor i in range(2): \n    for j in range(4): \n        for k in range(2): \n            val= cash[0]*i + cash[1]*j + cash[2]*k \n            if val not in amount: \n                amount.append(val)  \nprint( str(len(amount)) ) "
+    },
+    "5": {
+        "answer": "12",
+        "equation": "cash=[1000, 5000, 10000]\namount=[] \nfor i in range(2): \n    for j in range(4): \n        for k in range(2): \n            val= cash[0]*i + cash[1]*j + cash[2]*k \n            if val not in amount: \n                amount.append(val)  \nprint( str(len(amount)) ) "
+    },
+    "6": {
+        "answer": "5",
+        "equation": "cash=[500, 100]\ncount=0 \nfor i in range(1, 21) : \n    data=list(itertools.combinations_with_replacement(cash,i)) \n    for j in range( len(data) ) : \n        val=data[j]  \n        if sum(val) == 2000 :\n            count += 1  \nprint( str(count) )"
+    },
+    "7": {
+        "answer": "3",
+        "equation": "cash=[500, 100]\ncount=0 \nfor i in range(1, 11) : \n    data=list(itertools.combinations_with_replacement(cash,i)) \n    for j in range( len(data) ) : \n        val=data[j]  \n        if sum(val) == 1000 :\n            count += 1  \nprint( str(count) )"
+    },
+    "8": {
+        "answer": "6",
+        "equation": "cash=[1000, 5000, 10000, 50000] \ndata = list(itertools.combinations(cash,2)) \namount=[] \nfor i in range(len(data)): \n    val = sum(data[i]) \n    if  val not in amount: \n        amount.append(val)  \nprint( str(len(amount) ) ) "
+    },
+    "9": {
+        "answer": "4",
+        "equation": "print(str(int(math.comb(3,2)+math.comb(3,3))))"
+    },
+    "10": {
+        "answer": "7",
+        "equation": "print(str(int(math.comb(3,1)+math.comb(3,2)+math.comb(3,3))))"
+    },
+    "11": {
+        "answer": "7",
+        "equation": "print(str(int(math.comb(3,1)+math.comb(3,2)+math.comb(3,3))))"
+    },
+    "12": {
+        "answer": "30",
+        "equation": "print( str(int(math.factorial(5)/math.factorial(2)/math.factorial(1)/math.factorial(2))) ) "
+    },
+    "13": {
+        "answer": "10",
+        "equation": "print( str(int(math.factorial(5)/math.factorial(3)/math.factorial(2))) ) "
+    },
+    "14": {
+        "answer": "4",
+        "equation": "cnt=0 \nfor i in range(1, 7) : \n    for j in range(1, 7) : \n        for k in range(1, 7) : \n            if k==i : \n                if i==j-2 : \n                    cnt +=1 \nprint( str(cnt) ) "
+    },
+    "15": {
+        "answer": "12",
+        "equation": "cnt=0 \nfor i in range(1, 7) : \n    for j in range(1, 7) : \n        for k in range(1, 7) : \n            for m in range(1, 7) : \n                if m==i : \n                    if j==i-4 : \n                        cnt +=1 \nprint( str(cnt) ) "
+    },
+    "16": {
+        "answer": "7",
+        "equation": "print(str(int(1*(6+1))))"
+    },
+    "17": {
+        "answer": "7",
+        "equation": "cnt=0 \nfor i in range(1, 7) : \n    for j in range(1, 7) : \n        if i+j+k==5 : \n             cnt += 1 \n        if i+j+k==10 : \n             cnt += 1 \nprint(cnt) "
+    },
+    "18": {
+        "answer": "15",
+        "equation": "print(str(int(3*(6-1))))"
+    },
+    "19": {
+        "answer": "15",
+        "equation": "cnt=0 \nfor i in range(1, 7) : \n    for j in range(1, 7) : \n        for k in range(1, 7) : \n            if i+j+k == 7 : \n                cnt += 1 \nprint(cnt)  "
+    },
+    "20": {
+        "answer": "5",
+        "equation": "cnt=0 \nfor i in range(1, 7) : \n    for j in range(1, 7) : \n        if i+j == 8 : \n            cnt += 1 \nprint(cnt)  "
+    },
+    "21": {
+        "answer": "28",
+        "equation": "print(str(int(math.comb(8, 2))))"
+    },
+    "22": {
+        "answer": "15",
+        "equation": "print(str(int(math.comb(6, 2))))"
+    },
+    "23": {
+        "answer": "4",
+        "equation": "print(str(int(2*2)))"
+    },
+    "24": {
+        "answer": "6",
+        "equation": "print(str(int(3*2)))"
+    },
+    "25": {
+        "answer": "9",
+        "equation": "print(str(int(3*3)))"
+    }
+}

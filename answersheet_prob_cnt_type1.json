@@ -1,0 +1,674 @@
+{
+    "1": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "2": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "3": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "4": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "5": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "6": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "7": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "8": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "9": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "10": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "11": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "12": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "13": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "14": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "15": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "16": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "17": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "18": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "19": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "20": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "21": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "22": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "23": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "24": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "25": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "26": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "27": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "28": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "29": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "30": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "31": {
+        "answer": "7",
+        "equation": "print(str(int(abs(3+4))))"
+    },
+    "32": {
+        "answer": "1",
+        "equation": "print(str(int(abs(3-4))))"
+    },
+    "33": {
+        "answer": "8",
+        "equation": "print(str(int(abs(3+5))))"
+    },
+    "34": {
+        "answer": "2",
+        "equation": "print(str(int(abs(3-5))))"
+    },
+    "35": {
+        "answer": "8",
+        "equation": "print(str(int(abs(3+5))))"
+    },
+    "36": {
+        "answer": "2",
+        "equation": "print(str(int(abs(3-5))))"
+    },
+    "37": {
+        "answer": "8",
+        "equation": "print(str(int(abs(3+5))))"
+    },
+    "38": {
+        "answer": "2",
+        "equation": "print(str(int(abs(3-5))))"
+    },
+    "39": {
+        "answer": "8",
+        "equation": "print(str(int(abs(3+5))))"
+    },
+    "40": {
+        "answer": "2",
+        "equation": "print(str(int(abs(3-5))))"
+    },
+    "41": {
+        "answer": "9",
+        "equation": "print(str(int(abs(3+6))))"
+    },
+    "42": {
+        "answer": "3",
+        "equation": "print(str(int(abs(3-6))))"
+    },
+    "43": {
+        "answer": "9",
+        "equation": "print(str(int(abs(3+6))))"
+    },
+    "44": {
+        "answer": "3",
+        "equation": "print(str(int(abs(3-6))))"
+    },
+    "45": {
+        "answer": "9",
+        "equation": "print(str(int(abs(3+6))))"
+    },
+    "46": {
+        "answer": "3",
+        "equation": "print(str(int(abs(3-6))))"
+    },
+    "47": {
+        "answer": "9",
+        "equation": "print(str(int(abs(3+6))))"
+    },
+    "48": {
+        "answer": "3",
+        "equation": "print(str(int(abs(3-6))))"
+    },
+    "49": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "50": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "51": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "52": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "53": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "54": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "55": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "56": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "57": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "58": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "59": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "60": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "61": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "62": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "63": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "64": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "65": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "66": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "67": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "68": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "69": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "70": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "71": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "72": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "73": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "74": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "75": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "76": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "77": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "78": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "79": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "80": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "81": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "82": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "83": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "84": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "85": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "86": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "87": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "88": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "89": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "90": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "91": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "92": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "93": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "94": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "95": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "96": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "97": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "98": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "99": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "100": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "101": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "102": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "103": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "104": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "105": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "106": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "107": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "108": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "109": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "110": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "111": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "112": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "113": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "114": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "115": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "116": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "117": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "118": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "119": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "120": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "121": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "122": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "123": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "124": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "125": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "126": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "127": {
+        "answer": "8",
+        "equation": "print(str(int(abs(4+4))))"
+    },
+    "128": {
+        "answer": "0",
+        "equation": "print(str(int(abs(4-4))))"
+    },
+    "129": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "130": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "131": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "132": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "133": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "134": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "135": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "136": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "137": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "138": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "139": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "140": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "141": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "142": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "143": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "144": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "145": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "146": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "147": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "148": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "149": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "150": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "151": {
+        "answer": "9",
+        "equation": "print(str(int(abs(4+5))))"
+    },
+    "152": {
+        "answer": "1",
+        "equation": "print(str(int(abs(4-5))))"
+    },
+    "153": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "154": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "155": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "156": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "157": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "158": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "159": {
+        "answer": "10",
+        "equation": "print(str(int(abs(4+6))))"
+    },
+    "160": {
+        "answer": "2",
+        "equation": "print(str(int(abs(4-6))))"
+    },
+    "161": {
+        "answer": "11",
+        "equation": "print(str(int(abs(5+6))))"
+    },
+    "162": {
+        "answer": "1",
+        "equation": "print(str(int(abs(5-6))))"
+    },
+    "163": {
+        "answer": "11",
+        "equation": "print(str(int(abs(5+6))))"
+    },
+    "164": {
+        "answer": "1",
+        "equation": "print(str(int(abs(5-6))))"
+    },
+    "165": {
+        "answer": "11",
+        "equation": "print(str(int(abs(5+6))))"
+    },
+    "166": {
+        "answer": "1",
+        "equation": "print(str(int(abs(5-6))))"
+    },
+    "167": {
+        "answer": "11",
+        "equation": "print(str(int(abs(5+6))))"
+    },
+    "168": {
+        "answer": "1",
+        "equation": "print(str(int(abs(5-6))))"
+    }
+}

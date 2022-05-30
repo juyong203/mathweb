@@ -1,0 +1,450 @@
+{
+    "1": {
+        "answer": "60",
+        "equation": "print(str(int(abs((12*3)+(6*4)))))"
+    },
+    "2": {
+        "answer": "15",
+        "equation": "print(str(int(abs((9*3)-(3*4)))))"
+    },
+    "3": {
+        "answer": "68",
+        "equation": "print(str(int(abs((12*3)+(8*4)))))"
+    },
+    "4": {
+        "answer": "24",
+        "equation": "print(str(int(abs((12*3)-(3*4)))))"
+    },
+    "5": {
+        "answer": "76",
+        "equation": "print(str(int(abs((12*3)+(8*5)))))"
+    },
+    "6": {
+        "answer": "1",
+        "equation": "print(str(int(abs((12*3)-(7*5)))))"
+    },
+    "7": {
+        "answer": "57",
+        "equation": "print(str(int(abs((9*3)+(6*5)))))"
+    },
+    "8": {
+        "answer": "9",
+        "equation": "print(str(int(abs((8*3)-(3*5)))))"
+    },
+    "9": {
+        "answer": "60",
+        "equation": "print(str(int(abs((10*3)+(5*6)))))"
+    },
+    "10": {
+        "answer": "15",
+        "equation": "print(str(int(abs((11*3)-(8*6)))))"
+    },
+    "11": {
+        "answer": "42",
+        "equation": "print(str(int(abs((8*3)+(3*6)))))"
+    },
+    "12": {
+        "answer": "0",
+        "equation": "print(str(int(abs((10*3)-(5*6)))))"
+    },
+    "13": {
+        "answer": "71",
+        "equation": "print(str(int(abs((12*3)+(5*7)))))"
+    },
+    "14": {
+        "answer": "5",
+        "equation": "print(str(int(abs((11*3)-(4*7)))))"
+    },
+    "15": {
+        "answer": "66",
+        "equation": "print(str(int(abs((8*3)+(6*7)))))"
+    },
+    "16": {
+        "answer": "12",
+        "equation": "print(str(int(abs((10*3)-(6*7)))))"
+    },
+    "17": {
+        "answer": "67",
+        "equation": "print(str(int(abs((9*3)+(5*8)))))"
+    },
+    "18": {
+        "answer": "16",
+        "equation": "print(str(int(abs((8*3)-(5*8)))))"
+    },
+    "19": {
+        "answer": "89",
+        "equation": "print(str(int(abs((11*3)+(7*8)))))"
+    },
+    "20": {
+        "answer": "21",
+        "equation": "print(str(int(abs((9*3)-(6*8)))))"
+    },
+    "21": {
+        "answer": "90",
+        "equation": "print(str(int(abs((12*3)+(6*9)))))"
+    },
+    "22": {
+        "answer": "42",
+        "equation": "print(str(int(abs((10*3)-(8*9)))))"
+    },
+    "23": {
+        "answer": "69",
+        "equation": "print(str(int(abs((8*3)+(5*9)))))"
+    },
+    "24": {
+        "answer": "6",
+        "equation": "print(str(int(abs((11*3)-(3*9)))))"
+    },
+    "25": {
+        "answer": "96",
+        "equation": "print(str(int(abs((12*3)+(6*10)))))"
+    },
+    "26": {
+        "answer": "33",
+        "equation": "print(str(int(abs((9*3)-(6*10)))))"
+    },
+    "27": {
+        "answer": "54",
+        "equation": "print(str(int(abs((8*3)+(3*10)))))"
+    },
+    "28": {
+        "answer": "30",
+        "equation": "print(str(int(abs((10*3)-(6*10)))))"
+    },
+    "29": {
+        "answer": "59",
+        "equation": "print(str(int(abs((11*4)+(3*5)))))"
+    },
+    "30": {
+        "answer": "18",
+        "equation": "print(str(int(abs((12*4)-(6*5)))))"
+    },
+    "31": {
+        "answer": "68",
+        "equation": "print(str(int(abs((12*4)+(4*5)))))"
+    },
+    "32": {
+        "answer": "23",
+        "equation": "print(str(int(abs((12*4)-(5*5)))))"
+    },
+    "33": {
+        "answer": "74",
+        "equation": "print(str(int(abs((11*4)+(5*6)))))"
+    },
+    "34": {
+        "answer": "2",
+        "equation": "print(str(int(abs((10*4)-(7*6)))))"
+    },
+    "35": {
+        "answer": "78",
+        "equation": "print(str(int(abs((9*4)+(7*6)))))"
+    },
+    "36": {
+        "answer": "18",
+        "equation": "print(str(int(abs((12*4)-(5*6)))))"
+    },
+    "37": {
+        "answer": "88",
+        "equation": "print(str(int(abs((8*4)+(8*7)))))"
+    },
+    "38": {
+        "answer": "6",
+        "equation": "print(str(int(abs((9*4)-(6*7)))))"
+    },
+    "39": {
+        "answer": "97",
+        "equation": "print(str(int(abs((12*4)+(7*7)))))"
+    },
+    "40": {
+        "answer": "2",
+        "equation": "print(str(int(abs((10*4)-(6*7)))))"
+    },
+    "41": {
+        "answer": "96",
+        "equation": "print(str(int(abs((8*4)+(8*8)))))"
+    },
+    "42": {
+        "answer": "8",
+        "equation": "print(str(int(abs((8*4)-(3*8)))))"
+    },
+    "43": {
+        "answer": "76",
+        "equation": "print(str(int(abs((9*4)+(5*8)))))"
+    },
+    "44": {
+        "answer": "0",
+        "equation": "print(str(int(abs((12*4)-(6*8)))))"
+    },
+    "45": {
+        "answer": "67",
+        "equation": "print(str(int(abs((10*4)+(3*9)))))"
+    },
+    "46": {
+        "answer": "17",
+        "equation": "print(str(int(abs((11*4)-(3*9)))))"
+    },
+    "47": {
+        "answer": "59",
+        "equation": "print(str(int(abs((8*4)+(3*9)))))"
+    },
+    "48": {
+        "answer": "18",
+        "equation": "print(str(int(abs((9*4)-(6*9)))))"
+    },
+    "49": {
+        "answer": "108",
+        "equation": "print(str(int(abs((12*4)+(6*10)))))"
+    },
+    "50": {
+        "answer": "32",
+        "equation": "print(str(int(abs((12*4)-(8*10)))))"
+    },
+    "51": {
+        "answer": "120",
+        "equation": "print(str(int(abs((10*4)+(8*10)))))"
+    },
+    "52": {
+        "answer": "10",
+        "equation": "print(str(int(abs((10*4)-(5*10)))))"
+    },
+    "53": {
+        "answer": "97",
+        "equation": "print(str(int(abs((11*5)+(7*6)))))"
+    },
+    "54": {
+        "answer": "3",
+        "equation": "print(str(int(abs((9*5)-(7*6)))))"
+    },
+    "55": {
+        "answer": "78",
+        "equation": "print(str(int(abs((12*5)+(3*6)))))"
+    },
+    "56": {
+        "answer": "8",
+        "equation": "print(str(int(abs((8*5)-(8*6)))))"
+    },
+    "57": {
+        "answer": "66",
+        "equation": "print(str(int(abs((9*5)+(3*7)))))"
+    },
+    "58": {
+        "answer": "3",
+        "equation": "print(str(int(abs((9*5)-(6*7)))))"
+    },
+    "59": {
+        "answer": "68",
+        "equation": "print(str(int(abs((8*5)+(4*7)))))"
+    },
+    "60": {
+        "answer": "32",
+        "equation": "print(str(int(abs((12*5)-(4*7)))))"
+    },
+    "61": {
+        "answer": "88",
+        "equation": "print(str(int(abs((8*5)+(6*8)))))"
+    },
+    "62": {
+        "answer": "14",
+        "equation": "print(str(int(abs((10*5)-(8*8)))))"
+    },
+    "63": {
+        "answer": "69",
+        "equation": "print(str(int(abs((9*5)+(3*8)))))"
+    },
+    "64": {
+        "answer": "21",
+        "equation": "print(str(int(abs((9*5)-(3*8)))))"
+    },
+    "65": {
+        "answer": "104",
+        "equation": "print(str(int(abs((10*5)+(6*9)))))"
+    },
+    "66": {
+        "answer": "5",
+        "equation": "print(str(int(abs((8*5)-(5*9)))))"
+    },
+    "67": {
+        "answer": "100",
+        "equation": "print(str(int(abs((11*5)+(5*9)))))"
+    },
+    "68": {
+        "answer": "4",
+        "equation": "print(str(int(abs((10*5)-(6*9)))))"
+    },
+    "69": {
+        "answer": "130",
+        "equation": "print(str(int(abs((10*5)+(8*10)))))"
+    },
+    "70": {
+        "answer": "20",
+        "equation": "print(str(int(abs((12*5)-(8*10)))))"
+    },
+    "71": {
+        "answer": "110",
+        "equation": "print(str(int(abs((10*5)+(6*10)))))"
+    },
+    "72": {
+        "answer": "30",
+        "equation": "print(str(int(abs((8*5)-(7*10)))))"
+    },
+    "73": {
+        "answer": "128",
+        "equation": "print(str(int(abs((12*6)+(8*7)))))"
+    },
+    "74": {
+        "answer": "37",
+        "equation": "print(str(int(abs((12*6)-(5*7)))))"
+    },
+    "75": {
+        "answer": "108",
+        "equation": "print(str(int(abs((11*6)+(6*7)))))"
+    },
+    "76": {
+        "answer": "31",
+        "equation": "print(str(int(abs((11*6)-(5*7)))))"
+    },
+    "77": {
+        "answer": "104",
+        "equation": "print(str(int(abs((8*6)+(7*8)))))"
+    },
+    "78": {
+        "answer": "14",
+        "equation": "print(str(int(abs((9*6)-(5*8)))))"
+    },
+    "79": {
+        "answer": "96",
+        "equation": "print(str(int(abs((12*6)+(3*8)))))"
+    },
+    "80": {
+        "answer": "22",
+        "equation": "print(str(int(abs((9*6)-(4*8)))))"
+    },
+    "81": {
+        "answer": "108",
+        "equation": "print(str(int(abs((9*6)+(6*9)))))"
+    },
+    "82": {
+        "answer": "0",
+        "equation": "print(str(int(abs((9*6)-(6*9)))))"
+    },
+    "83": {
+        "answer": "75",
+        "equation": "print(str(int(abs((8*6)+(3*9)))))"
+    },
+    "84": {
+        "answer": "24",
+        "equation": "print(str(int(abs((10*6)-(4*9)))))"
+    },
+    "85": {
+        "answer": "90",
+        "equation": "print(str(int(abs((10*6)+(3*10)))))"
+    },
+    "86": {
+        "answer": "4",
+        "equation": "print(str(int(abs((11*6)-(7*10)))))"
+    },
+    "87": {
+        "answer": "96",
+        "equation": "print(str(int(abs((11*6)+(3*10)))))"
+    },
+    "88": {
+        "answer": "4",
+        "equation": "print(str(int(abs((9*6)-(5*10)))))"
+    },
+    "89": {
+        "answer": "126",
+        "equation": "print(str(int(abs((10*7)+(7*8)))))"
+    },
+    "90": {
+        "answer": "20",
+        "equation": "print(str(int(abs((12*7)-(8*8)))))"
+    },
+    "91": {
+        "answer": "111",
+        "equation": "print(str(int(abs((9*7)+(6*8)))))"
+    },
+    "92": {
+        "answer": "39",
+        "equation": "print(str(int(abs((9*7)-(3*8)))))"
+    },
+    "93": {
+        "answer": "135",
+        "equation": "print(str(int(abs((9*7)+(8*9)))))"
+    },
+    "94": {
+        "answer": "50",
+        "equation": "print(str(int(abs((11*7)-(3*9)))))"
+    },
+    "95": {
+        "answer": "142",
+        "equation": "print(str(int(abs((10*7)+(8*9)))))"
+    },
+    "96": {
+        "answer": "32",
+        "equation": "print(str(int(abs((11*7)-(5*9)))))"
+    },
+    "97": {
+        "answer": "120",
+        "equation": "print(str(int(abs((10*7)+(5*10)))))"
+    },
+    "98": {
+        "answer": "14",
+        "equation": "print(str(int(abs((8*7)-(7*10)))))"
+    },
+    "99": {
+        "answer": "124",
+        "equation": "print(str(int(abs((12*7)+(4*10)))))"
+    },
+    "100": {
+        "answer": "20",
+        "equation": "print(str(int(abs((10*7)-(5*10)))))"
+    },
+    "101": {
+        "answer": "168",
+        "equation": "print(str(int(abs((12*8)+(8*9)))))"
+    },
+    "102": {
+        "answer": "53",
+        "equation": "print(str(int(abs((10*8)-(3*9)))))"
+    },
+    "103": {
+        "answer": "159",
+        "equation": "print(str(int(abs((12*8)+(7*9)))))"
+    },
+    "104": {
+        "answer": "51",
+        "equation": "print(str(int(abs((12*8)-(5*9)))))"
+    },
+    "105": {
+        "answer": "156",
+        "equation": "print(str(int(abs((12*8)+(6*10)))))"
+    },
+    "106": {
+        "answer": "6",
+        "equation": "print(str(int(abs((8*8)-(7*10)))))"
+    },
+    "107": {
+        "answer": "150",
+        "equation": "print(str(int(abs((10*8)+(7*10)))))"
+    },
+    "108": {
+        "answer": "48",
+        "equation": "print(str(int(abs((11*8)-(4*10)))))"
+    },
+    "109": {
+        "answer": "148",
+        "equation": "print(str(int(abs((12*9)+(4*10)))))"
+    },
+    "110": {
+        "answer": "12",
+        "equation": "print(str(int(abs((8*9)-(6*10)))))"
+    },
+    "111": {
+        "answer": "130",
+        "equation": "print(str(int(abs((10*9)+(4*10)))))"
+    },
+    "112": {
+        "answer": "41",
+        "equation": "print(str(int(abs((9*9)-(4*10)))))"
+    }
+}

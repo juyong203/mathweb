@@ -1,0 +1,106 @@
+{
+    "1": {
+        "answer": "467",
+        "equation": "print(str(int(874-407)))"
+    },
+    "2": {
+        "answer": "51",
+        "equation": "print(str(int(97-46)))"
+    },
+    "3": {
+        "answer": "76",
+        "equation": "num_repeat= str(7) \ncnt=0 \nfor i in range(200,601): \n    s_num=str(i) \n    for j in range(len(s_num)): \n        if s_num[j]==num_repeat: \n            cnt += 1 \n            break \nprint( str(int(cnt)) ) "
+    },
+    "4": {
+        "answer": "3",
+        "equation": "cnt=0 \nn_list=[1, 2, 3, 4, 5, 6, 7, 8, 9]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v==12 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "5": {
+        "answer": "7",
+        "equation": "cnt=0 \nn_list=[2, 3, 4, 5, 6, 7, 8, 9, 10]\ncomb_r = list(itertools.combinations(n_list,3)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v==15 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "6": {
+        "answer": "5",
+        "equation": "cnt=0 \nn_list=[12, 13, 14, 15]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v>25.0 and sum_v<30.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "7": {
+        "answer": "10",
+        "equation": "cnt=0 \nn_list=[13, 14, 15, 16, 17, 18]\ncomb_r = list(itertools.combinations(n_list,3)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v>40.0 and sum_v<47.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "8": {
+        "answer": "12",
+        "equation": "cnt=0 \nn_list=[12, 13, 14, 15, 16, 17]\ncomb_r = list(itertools.combinations(n_list,3)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v>41.0 and sum_v<46.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "9": {
+        "answer": "12",
+        "equation": "cnt=0 \nn_list=[2, 3, 4, 5, 6, 7, 8]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v>9.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "10": {
+        "answer": "4",
+        "equation": "cnt=0 \nn_list=[3, 4, 5, 6, 7, 8, 9, 10]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff==4 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "11": {
+        "answer": "6",
+        "equation": "cnt=0 \nn_list=[1, 2, 3, 4, 5, 6, 7, 8, 9]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff==3 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "12": {
+        "answer": "7",
+        "equation": "cnt=0 \nn_list=[30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff==14 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "13": {
+        "answer": "5",
+        "equation": "cnt=0 \nn_list=[12, 13, 14, 15, 16]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff>1.0 and diff<4.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "14": {
+        "answer": "3",
+        "equation": "cnt=0 \nn_list=[11, 12, 13, 14, 15]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff>2.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "15": {
+        "answer": "7",
+        "equation": "cnt=0 \nn_list=[13, 14, 15, 16, 17]\ncomb_r = list(itertools.combinations(n_list,2)) \nfor i in range( len(comb_r) ): \n    val=list(comb_r[i]) \n    diff=abs(val[0]-val[1]) \n    if diff<3.0 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "16": {
+        "answer": "10000",
+        "equation": "sumi=0 \nfor i in range(1, 201) : \n    if i%2==1 : \n        sumi += i \nprint( str(sumi) )"
+    },
+    "17": {
+        "answer": "10100",
+        "equation": "sumi=0 \nfor i in range(1, 201) : \n    if i%2==0 : \n        sumi += i \nprint( str(sumi) )"
+    },
+    "18": {
+        "answer": "10100",
+        "equation": "sumi=0 \nfor i in range(1, 201) : \n    if i%2 ==0 : \n        sumi += i \nprint( str(sumi) )"
+    },
+    "19": {
+        "answer": "10100",
+        "equation": "sumi=0 \nfor i in range(1, 201) : \n    if i%2 ==0 : \n        sumi += i \nprint( str(sumi) )"
+    },
+    "20": {
+        "answer": "7",
+        "equation": "cnt=0 \nn_list=[1, 2, 3, 4, 5, 6, 7, 8, 9]\ncomb_r = list(itertools.combinations(n_list,3)) \nfor i in range( len(comb_r) ): \n    sum_v = sum(comb_r[i]) \n    if sum_v==12 : \n        cnt += 1 \nprint( str(int(cnt)) )"
+    },
+    "21": {
+        "answer": "66",
+        "equation": "print(str(int(math.comb(12,2) )))"
+    },
+    "22": {
+        "answer": "0",
+        "equation": "print(str(int(math.comb(1,2) )))"
+    },
+    "23": {
+        "answer": "36",
+        "equation": "print(str(int(math.comb(9,2) )))"
+    },
+    "24": {
+        "answer": "21",
+        "equation": "print(str(int(math.comb(8,2) -7)))"
+    },
+    "25": {
+        "answer": "4",
+        "equation": "pt=[5, 3]\nchs=3\ndata=list(itertools.combinations_with_replacement(pt,chs))\nsumv=[] \nfor i in range (len(data) ): \n    val=sum(data[i]) \n    if val not in sumv: \n        sumv.append( val ) \nprint( str( len(sumv) ) ) "
+    },
+    "26": {
+        "answer": "7",
+        "equation": "pt=[10, 5, 3]\nchs=4\ndata=list(itertools.combinations_with_replacement(pt,chs))\ncnt=0 \nfor i in range (len(data) ): \n    val = sum(data[i])  \n    if val>25 or val==25 : \n        cnt += 1 \nprint( str( cnt )  ) "
+    }
+}

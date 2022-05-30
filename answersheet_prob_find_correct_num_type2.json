@@ -1,0 +1,482 @@
+{
+    "1": {
+        "answer": "1104",
+        "equation": "print(str(int(((1056+24)+24))))"
+    },
+    "2": {
+        "answer": "1224",
+        "equation": "print(str(int(((1152+36)+36))))"
+    },
+    "3": {
+        "answer": "1470",
+        "equation": "print(str(int(((1386+42)+42))))"
+    },
+    "4": {
+        "answer": "972",
+        "equation": "print(str(int(((900+36)+36))))"
+    },
+    "5": {
+        "answer": "667",
+        "equation": "print(str(int(((621+23)+23))))"
+    },
+    "6": {
+        "answer": "1066",
+        "equation": "print(str(int(((984+41)+41))))"
+    },
+    "7": {
+        "answer": "875",
+        "equation": "print(str(int(((805+35)+35))))"
+    },
+    "8": {
+        "answer": "1150",
+        "equation": "print(str(int(((1100+25)+25))))"
+    },
+    "9": {
+        "answer": "750",
+        "equation": "print(str(int(((690+30)+30))))"
+    },
+    "10": {
+        "answer": "1184",
+        "equation": "print(str(int(((1120+32)+32))))"
+    },
+    "11": {
+        "answer": "88",
+        "equation": "print(str(int(((847/11)+11))))"
+    },
+    "12": {
+        "answer": "160",
+        "equation": "print(str(int(((2304/16)+16))))"
+    },
+    "13": {
+        "answer": "108",
+        "equation": "print(str(int(((1152/12)+12))))"
+    },
+    "14": {
+        "answer": "63",
+        "equation": "print(str(int(((392/7)+7))))"
+    },
+    "15": {
+        "answer": "144",
+        "equation": "print(str(int(((1215/9)+9))))"
+    },
+    "16": {
+        "answer": "144",
+        "equation": "print(str(int(((2268/18)+18))))"
+    },
+    "17": {
+        "answer": "288",
+        "equation": "print(str(int(((4860/18)+18))))"
+    },
+    "18": {
+        "answer": "153",
+        "equation": "print(str(int(((2312/17)+17))))"
+    },
+    "19": {
+        "answer": "126",
+        "equation": "print(str(int(((1568/14)+14))))"
+    },
+    "20": {
+        "answer": "77",
+        "equation": "print(str(int(((490/7)+7))))"
+    },
+    "21": {
+        "answer": "5808",
+        "equation": "print(str(int(((11*484)+484))))"
+    },
+    "22": {
+        "answer": "26208",
+        "equation": "print(str(int(((12*2016)+2016))))"
+    },
+    "23": {
+        "answer": "6480",
+        "equation": "print(str(int(((9*648)+648))))"
+    },
+    "24": {
+        "answer": "9360",
+        "equation": "print(str(int(((12*720)+720))))"
+    },
+    "25": {
+        "answer": "18928",
+        "equation": "print(str(int(((13*1352)+1352))))"
+    },
+    "26": {
+        "answer": "20328",
+        "equation": "print(str(int(((11*1694)+1694))))"
+    },
+    "27": {
+        "answer": "15972",
+        "equation": "print(str(int(((11*1331)+1331))))"
+    },
+    "28": {
+        "answer": "35490",
+        "equation": "print(str(int(((13*2535)+2535))))"
+    },
+    "29": {
+        "answer": "6336",
+        "equation": "print(str(int(((8*704)+704))))"
+    },
+    "30": {
+        "answer": "15972",
+        "equation": "print(str(int(((11*1331)+1331))))"
+    },
+    "31": {
+        "answer": "192",
+        "equation": "print(str(int(((256-32)-32))))"
+    },
+    "32": {
+        "answer": "200",
+        "equation": "print(str(int(((240-20)-20))))"
+    },
+    "33": {
+        "answer": "350",
+        "equation": "print(str(int(((450-50)-50))))"
+    },
+    "34": {
+        "answer": "56",
+        "equation": "print(str(int(((112-28)-28))))"
+    },
+    "35": {
+        "answer": "175",
+        "equation": "print(str(int(((225-25)-25))))"
+    },
+    "36": {
+        "answer": "450",
+        "equation": "print(str(int(((540-45)-45))))"
+    },
+    "37": {
+        "answer": "516",
+        "equation": "print(str(int(((602-43)-43))))"
+    },
+    "38": {
+        "answer": "84",
+        "equation": "print(str(int(((140-28)-28))))"
+    },
+    "39": {
+        "answer": "80",
+        "equation": "print(str(int(((120-20)-20))))"
+    },
+    "40": {
+        "answer": "124",
+        "equation": "print(str(int(((186-31)-31))))"
+    },
+    "41": {
+        "answer": "144",
+        "equation": "print(str(int(((2916/18)-18))))"
+    },
+    "42": {
+        "answer": "39",
+        "equation": "print(str(int(((676/13)-13))))"
+    },
+    "43": {
+        "answer": "105",
+        "equation": "print(str(int(((1800/15)-15))))"
+    },
+    "44": {
+        "answer": "48",
+        "equation": "print(str(int(((448/8)-8))))"
+    },
+    "45": {
+        "answer": "180",
+        "equation": "print(str(int(((3564/18)-18))))"
+    },
+    "46": {
+        "answer": "128",
+        "equation": "print(str(int(((2304/16)-16))))"
+    },
+    "47": {
+        "answer": "128",
+        "equation": "print(str(int(((2304/16)-16))))"
+    },
+    "48": {
+        "answer": "24",
+        "equation": "print(str(int(((432/12)-12))))"
+    },
+    "49": {
+        "answer": "99",
+        "equation": "print(str(int(((972/9)-9))))"
+    },
+    "50": {
+        "answer": "39",
+        "equation": "print(str(int(((676/13)-13))))"
+    },
+    "51": {
+        "answer": "3584",
+        "equation": "print(str(int(((8*512)-512))))"
+    },
+    "52": {
+        "answer": "2352",
+        "equation": "print(str(int(((7*392)-392))))"
+    },
+    "53": {
+        "answer": "2240",
+        "equation": "print(str(int(((8*320)-320))))"
+    },
+    "54": {
+        "answer": "3584",
+        "equation": "print(str(int(((8*512)-512))))"
+    },
+    "55": {
+        "answer": "1500",
+        "equation": "print(str(int(((5*375)-375))))"
+    },
+    "56": {
+        "answer": "8470",
+        "equation": "print(str(int(((11*847)-847))))"
+    },
+    "57": {
+        "answer": "882",
+        "equation": "print(str(int(((7*147)-147))))"
+    },
+    "58": {
+        "answer": "1200",
+        "equation": "print(str(int(((5*300)-300))))"
+    },
+    "59": {
+        "answer": "6050",
+        "equation": "print(str(int(((11*605)-605))))"
+    },
+    "60": {
+        "answer": "3528",
+        "equation": "print(str(int(((7*588)-588))))"
+    },
+    "61": {
+        "answer": "7840",
+        "equation": "print(str(int(((308-28)*28))))"
+    },
+    "62": {
+        "answer": "5808",
+        "equation": "print(str(int(((176-44)*44))))"
+    },
+    "63": {
+        "answer": "13824",
+        "equation": "print(str(int(((336-48)*48))))"
+    },
+    "64": {
+        "answer": "8624",
+        "equation": "print(str(int(((336-28)*28))))"
+    },
+    "65": {
+        "answer": "4000",
+        "equation": "print(str(int(((220-20)*20))))"
+    },
+    "66": {
+        "answer": "24300",
+        "equation": "print(str(int(((585-45)*45))))"
+    },
+    "67": {
+        "answer": "4205",
+        "equation": "print(str(int(((174-29)*29))))"
+    },
+    "68": {
+        "answer": "4232",
+        "equation": "print(str(int(((207-23)*23))))"
+    },
+    "69": {
+        "answer": "3087",
+        "equation": "print(str(int(((168-21)*21))))"
+    },
+    "70": {
+        "answer": "2916",
+        "equation": "print(str(int(((135-27)*27))))"
+    },
+    "71": {
+        "answer": "28900",
+        "equation": "print(str(int(((816+34)*34))))"
+    },
+    "72": {
+        "answer": "40176",
+        "equation": "print(str(int(((1080+36)*36))))"
+    },
+    "73": {
+        "answer": "15870",
+        "equation": "print(str(int(((667+23)*23))))"
+    },
+    "74": {
+        "answer": "92160",
+        "equation": "print(str(int(((1872+48)*48))))"
+    },
+    "75": {
+        "answer": "31117",
+        "equation": "print(str(int(((1044+29)*29))))"
+    },
+    "76": {
+        "answer": "57600",
+        "equation": "print(str(int(((1152+48)*48))))"
+    },
+    "77": {
+        "answer": "10143",
+        "equation": "print(str(int(((462+21)*21))))"
+    },
+    "78": {
+        "answer": "52992",
+        "equation": "print(str(int(((1056+48)*48))))"
+    },
+    "79": {
+        "answer": "24192",
+        "equation": "print(str(int(((984+24)*24))))"
+    },
+    "80": {
+        "answer": "12348",
+        "equation": "print(str(int(((567+21)*21))))"
+    },
+    "81": {
+        "answer": "30074733",
+        "equation": "print(str(int(((13*1521)*1521))))"
+    },
+    "82": {
+        "answer": "3341637",
+        "equation": "print(str(int(((13*507)*507))))"
+    },
+    "83": {
+        "answer": "18984375",
+        "equation": "print(str(int(((15*1125)*1125))))"
+    },
+    "84": {
+        "answer": "42052608",
+        "equation": "print(str(int(((12*1872)*1872))))"
+    },
+    "85": {
+        "answer": "23762752",
+        "equation": "print(str(int(((13*1352)*1352))))"
+    },
+    "86": {
+        "answer": "61509375",
+        "equation": "print(str(int(((15*2025)*2025))))"
+    },
+    "87": {
+        "answer": "4840416",
+        "equation": "print(str(int(((14*588)*588))))"
+    },
+    "88": {
+        "answer": "940896",
+        "equation": "print(str(int(((6*396)*396))))"
+    },
+    "89": {
+        "answer": "18984375",
+        "equation": "print(str(int(((15*1125)*1125))))"
+    },
+    "90": {
+        "answer": "72773428",
+        "equation": "print(str(int(((13*2366)*2366))))"
+    },
+    "91": {
+        "answer": "10",
+        "equation": "print(str(int(((297-27)/27))))"
+    },
+    "92": {
+        "answer": "7",
+        "equation": "print(str(int(((192-24)/24))))"
+    },
+    "93": {
+        "answer": "6",
+        "equation": "print(str(int(((280-40)/40))))"
+    },
+    "94": {
+        "answer": "4",
+        "equation": "print(str(int(((130-26)/26))))"
+    },
+    "95": {
+        "answer": "12",
+        "equation": "print(str(int(((611-47)/47))))"
+    },
+    "96": {
+        "answer": "11",
+        "equation": "print(str(int(((372-31)/31))))"
+    },
+    "97": {
+        "answer": "7",
+        "equation": "print(str(int(((160-20)/20))))"
+    },
+    "98": {
+        "answer": "6",
+        "equation": "print(str(int(((224-32)/32))))"
+    },
+    "99": {
+        "answer": "13",
+        "equation": "print(str(int(((546-39)/39))))"
+    },
+    "100": {
+        "answer": "7",
+        "equation": "print(str(int(((200-25)/25))))"
+    },
+    "101": {
+        "answer": "42",
+        "equation": "print(str(int(((1927+47)/47))))"
+    },
+    "102": {
+        "answer": "38",
+        "equation": "print(str(int(((1443+39)/39))))"
+    },
+    "103": {
+        "answer": "32",
+        "equation": "print(str(int(((1550+50)/50))))"
+    },
+    "104": {
+        "answer": "33",
+        "equation": "print(str(int(((992+31)/31))))"
+    },
+    "105": {
+        "answer": "30",
+        "equation": "print(str(int(((1160+40)/40))))"
+    },
+    "106": {
+        "answer": "38",
+        "equation": "print(str(int(((1554+42)/42))))"
+    },
+    "107": {
+        "answer": "48",
+        "equation": "print(str(int(((2350+50)/50))))"
+    },
+    "108": {
+        "answer": "24",
+        "equation": "print(str(int(((1035+45)/45))))"
+    },
+    "109": {
+        "answer": "52",
+        "equation": "print(str(int(((1581+31)/31))))"
+    },
+    "110": {
+        "answer": "51",
+        "equation": "print(str(int(((1600+32)/32))))"
+    },
+    "111": {
+        "answer": "14",
+        "equation": "print(str(int(((686/7)/7))))"
+    },
+    "112": {
+        "answer": "10",
+        "equation": "print(str(int(((2250/15)/15))))"
+    },
+    "113": {
+        "answer": "6",
+        "equation": "print(str(int(((1176/14)/14))))"
+    },
+    "114": {
+        "answer": "6",
+        "equation": "print(str(int(((294/7)/7))))"
+    },
+    "115": {
+        "answer": "11",
+        "equation": "print(str(int(((704/8)/8))))"
+    },
+    "116": {
+        "answer": "11",
+        "equation": "print(str(int(((891/9)/9))))"
+    },
+    "117": {
+        "answer": "7",
+        "equation": "print(str(int(((2268/18)/18))))"
+    },
+    "118": {
+        "answer": "15",
+        "equation": "print(str(int(((2160/12)/12))))"
+    },
+    "119": {
+        "answer": "10",
+        "equation": "print(str(int(((1690/13)/13))))"
+    },
+    "120": {
+        "answer": "4",
+        "equation": "print(str(int(((676/13)/13))))"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "1": {
+        "answer": "4",
+        "equation": "n_list=[42, 52, 45, 54]\nprint( len(n_list) )"
+    },
+    "2": {
+        "answer": "7",
+        "equation": "n_list=[24, 42, 25, 52, 26, 45, 46]\nprint( len(n_list) )"
+    },
+    "3": {
+        "answer": "3",
+        "equation": "n_list=[35, 53, 37]\nprint( len(n_list) )"
+    },
+    "4": {
+        "answer": "8",
+        "equation": "n_list=[456, 465, 546, 458, 485, 548, 468, 486]\nprint( len(n_list) )"
+    },
+    "5": {
+        "answer": "12",
+        "equation": "n_list=[6375, 6357, 6735, 6753, 6537, 6573, 7635, 7653, 7365, 7356, 7563, 7536]\nprint( len(n_list) )"
+    },
+    "6": {
+        "answer": "4",
+        "equation": "n_list=[42, 72, 47, 74]\nprint( len(n_list) )"
+    },
+    "7": {
+        "answer": "3",
+        "equation": "n_list=[10, 13, 14]\nprint( len(n_list) )"
+    },
+    "8": {
+        "answer": "3",
+        "equation": "n_list=[31, 35, 15]\nprint( len(n_list) )"
+    },
+    "9": {
+        "answer": "5",
+        "equation": "n_list=[41, 42, 24, 47, 27]\nprint( len(n_list) )"
+    },
+    "10": {
+        "answer": "18",
+        "equation": "n_list=[264, 246, 462, 426, 263, 236, 362, 326, 463, 436, 364, 346, 243, 234, 423, 432, 324, 342]\nprint( len(n_list) )"
+    },
+    "11": {
+        "answer": "4",
+        "equation": "n_list=[7083, 7038, 7308, 7380]\nprint( len(n_list) )"
+    },
+    "12": {
+        "answer": "3",
+        "equation": "n_list=[73, 57, 75]\nprint( len(n_list) )"
+    },
+    "13": {
+        "answer": "3",
+        "equation": "n_list=[46, 34, 36]\nprint( len(n_list) )"
+    },
+    "14": {
+        "answer": "8",
+        "equation": "n_list=[46.02, 46.2, 60.24, 60.42, 62.04, 62.4, 64.02, 64.2]\nprint( len(n_list) )"
+    },
+    "15": {
+        "answer": "24",
+        "equation": "n_list=[90.23700000000001, 90.273, 90.327, 90.372, 90.723, 90.732, 92.037, 92.07300000000001, 92.307, 92.37, 92.703, 92.73, 93.027, 93.072, 93.20700000000001, 93.27, 93.702, 93.72, 97.023, 97.032, 97.203, 97.23, 97.302, 97.32000000000001]\nprint( len(n_list) )"
+    },
+    "16": {
+        "answer": "24",
+        "equation": "n_list=[90.23700000000001, 90.273, 90.327, 90.372, 90.723, 90.732, 92.037, 92.07300000000001, 92.307, 92.37, 92.703, 92.73, 93.027, 93.072, 93.20700000000001, 93.27, 93.702, 93.72, 97.023, 97.032, 97.203, 97.23, 97.302, 97.32000000000001]\nprint( len(n_list) )"
+    },
+    "17": {
+        "answer": "300",
+        "equation": "print(str(int(abs(62*7-67*2))))"
+    },
+    "18": {
+        "answer": "190",
+        "equation": "print(str(int(31*5+35*1)))"
+    },
+    "19": {
+        "answer": "6225",
+        "equation": "print(str(int(75*83)))"
+    },
+    "20": {
+        "answer": "490",
+        "equation": "print(str(int(35*14)))"
+    },
+    "21": {
+        "answer": "364",
+        "equation": "print(str(int(52*7)))"
+    },
+    "22": {
+        "answer": "234",
+        "equation": "print(str(int(42*5+24*1)))"
+    },
+    "23": {
+        "answer": "5373",
+        "equation": "print(str(int(7420-2047)))"
+    },
+    "24": {
+        "answer": "108",
+        "equation": "print(str(int(95+13)))"
+    },
+    "25": {
+        "answer": "1332",
+        "equation": "print(str(int(864+468)))"
+    }
+}

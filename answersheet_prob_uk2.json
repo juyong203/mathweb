@@ -1,0 +1,282 @@
+{
+    "1": {
+        "answer": "6",
+        "equation": "dic_t={'A': 9, 'B': 7, 'C': 6}\nprint( dic_t['C'] )"
+    },
+    "2": {
+        "answer": "8",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 2, 'B': 6, 'C': 6}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "3": {
+        "answer": "1",
+        "equation": "dic_t={'A': 5, 'B': 6, 'C': 2}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "4": {
+        "answer": "6",
+        "equation": "dic_t={'A': 6, 'B': 5, 'C': 1}\nprint( dic_t['A'] )"
+    },
+    "5": {
+        "answer": "5",
+        "equation": "dic_t={'A': 6, 'B': 5, 'C': 1}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "6": {
+        "answer": "9",
+        "equation": "dic_t={'A': 6, 'B': 1, 'C': 5, 'D': 9}\nprint( dic_t['D'] )"
+    },
+    "7": {
+        "answer": "568",
+        "equation": "k_num=['A', 'B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 5, 'B': 6, 'C': 8}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]]) *pow(10,len_k-i-1)\nprint(str(int(val)))"
+    },
+    "8": {
+        "answer": "479",
+        "equation": "k_num=['A', 'B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 4, 'B': 7, 'C': 9}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]]) *pow(10,len_k-i-1)\nprint(str(int(val)))"
+    },
+    "9": {
+        "answer": "657",
+        "equation": "k_num=['A', 'B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 6, 'B': 5, 'C': 7}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]]) *pow(10,len_k-i-1)\nprint(str(int(val)))"
+    },
+    "10": {
+        "answer": "3",
+        "equation": "dic_t={'A': 6, 'B': 3, 'C': 9}\nprint( dic_t['B'] )"
+    },
+    "11": {
+        "answer": "4",
+        "equation": "list_tb=[[6], [7], [8], [9]]\nprint( len(list_tb) )"
+    },
+    "12": {
+        "answer": "4",
+        "equation": "list_tb=[[1], [2], [3], [4]]\nprint( len(list_tb) )"
+    },
+    "13": {
+        "answer": "3",
+        "equation": "list_tb=[[7], [8], [9]]\nprint( len(list_tb) )"
+    },
+    "14": {
+        "answer": "6",
+        "equation": "list_tb=[[1], [2], [3], [4], [5], [6]]\nprint( len(list_tb) )"
+    },
+    "15": {
+        "answer": "18",
+        "equation": "list_tb=[[2, 1], [3, 1], [3, 2], [4, 1], [4, 2], [5, 1], [5, 2], [6, 1], [6, 2], [7, 1], [7, 2], [7, 3], [8, 1], [8, 2], [8, 3], [9, 1], [9, 2], [9, 3]]\nprint( len(list_tb) )"
+    },
+    "16": {
+        "answer": "6",
+        "equation": "list_tb=[[7, 6], [8, 6], [8, 7], [9, 6], [9, 7], [9, 8]]\nprint( len(list_tb) )"
+    },
+    "17": {
+        "answer": "3",
+        "equation": "list_tb=[[1, 2], [1, 3], [2, 3]]\nprint( len(list_tb) )"
+    },
+    "18": {
+        "answer": "16",
+        "equation": "list_tb=[[1, 7], [1, 8], [1, 9], [2, 8], [2, 9], [3, 8], [3, 9], [4, 8], [4, 9], [5, 8], [5, 9], [6, 8], [6, 9], [7, 8], [7, 9], [8, 9]]\nprint( len(list_tb) )"
+    },
+    "19": {
+        "answer": "4",
+        "equation": "list_tb=[[3, 4], [4, 3], [5, 2], [6, 1]]\nprint( len(list_tb) )"
+    },
+    "20": {
+        "answer": "2",
+        "equation": "list_tb=[[1, 5], [2, 4]]\nprint( len(list_tb) )"
+    },
+    "21": {
+        "answer": "3",
+        "equation": "list_tb=[[7, 1], [8, 2], [9, 3]]\nprint( len(list_tb) )"
+    },
+    "22": {
+        "answer": "2",
+        "equation": "list_tb=[[6, 1], [7, 2]]\nprint( len(list_tb) )"
+    },
+    "23": {
+        "answer": "22",
+        "equation": "k_num=['C', 'D']\nlen_k = len(k_num)  \ndic_t={'A': 4, 'B': 7, 'C': 2, 'D': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]]) *pow(10,len_k-i-1)\nprint(str(int(val)))"
+    },
+    "24": {
+        "answer": "42",
+        "equation": "dic_t={'A': 14, 'B': 56, 'C': 42}\nprint( dic_t['C'] )"
+    },
+    "25": {
+        "answer": "71",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 13, 'B': 45, 'C': 58}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "26": {
+        "answer": "34",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 8, 'B': 21, 'C': 13}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "27": {
+        "answer": "54",
+        "equation": "dic_t={'A': 16, 'B': 38, 'C': 54}\nprint( dic_t['C'] )"
+    },
+    "28": {
+        "answer": "16",
+        "equation": "dic_t={'A': 16, 'B': 49, 'C': 33}\nprint(str(abs(int(dic_t['B'])-int(dic_t['C']))))"
+    },
+    "29": {
+        "answer": "111",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 15, 'B': 48, 'C': 63}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "30": {
+        "answer": "29",
+        "equation": "dic_t={'A': 19, 'B': 48, 'C': 29}\nprint( dic_t['C'] )"
+    },
+    "31": {
+        "answer": "79",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 11, 'B': 34, 'C': 45}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "32": {
+        "answer": "41",
+        "equation": "dic_t={'A': 9, 'B': 16, 'C': 41}\nprint( dic_t['C'] )"
+    },
+    "33": {
+        "answer": "42",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 23, 'B': 32, 'C': 19}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "34": {
+        "answer": "23",
+        "equation": "dic_t={'A': 17, 'B': 6, 'C': 40}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "35": {
+        "answer": "36",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 36, 'B': 24, 'C': 12}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "36": {
+        "answer": "51",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 11, 'B': 17, 'C': 40}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "37": {
+        "answer": "10",
+        "equation": "dic_t={'A': 32, 'B': 35, 'C': 22}\nprint(str(abs(int(dic_t['A'])-int(dic_t['C']))))"
+    },
+    "38": {
+        "answer": "26",
+        "equation": "dic_t={'A': 23, 'B': 10, 'C': 36}\nprint(str(abs(int(dic_t['B'])-int(dic_t['C']))))"
+    },
+    "39": {
+        "answer": "75",
+        "equation": "k_num=['A', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 47, 'B': 40, 'C': 28}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "40": {
+        "answer": "3",
+        "equation": "dic_t={'A': 3, 'B': 2, 'C': 3}\nprint( dic_t['C'] )"
+    },
+    "41": {
+        "answer": "4",
+        "equation": "dic_t={'A': 4, 'B': 2, 'C': 4}\nprint( dic_t['C'] )"
+    },
+    "42": {
+        "answer": "3",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 3, 'B': 1, 'C': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "43": {
+        "answer": "0",
+        "equation": "dic_t={'A': 7, 'B': 1, 'C': 1}\nprint(str(abs(int(dic_t['B'])-int(dic_t['C']))))"
+    },
+    "44": {
+        "answer": "5",
+        "equation": "dic_t={'A': 6, 'B': 2, 'C': 7}\nprint(str(abs(int(dic_t['B'])-int(dic_t['C']))))"
+    },
+    "45": {
+        "answer": "3",
+        "equation": "k_num=['B', 'C']\nlen_k = len(k_num)  \ndic_t={'A': 4, 'B': 1, 'C': 2}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "46": {
+        "answer": "5",
+        "equation": "dic_t={'A': 5, 'B': 3, 'C': 1}\nprint( dic_t['A'] )"
+    },
+    "47": {
+        "answer": "6",
+        "equation": "dic_t={'A': 3, 'B': 6, 'C': 1}\nprint( dic_t['B'] )"
+    },
+    "48": {
+        "answer": "44",
+        "equation": "dic_t={'A': 21, 'B': 12, 'C': 44}\nprint( dic_t['C'] )"
+    },
+    "49": {
+        "answer": "16",
+        "equation": "dic_t={'A': 12, 'B': 16, 'C': 25}\nprint( dic_t['B'] )"
+    },
+    "50": {
+        "answer": "12",
+        "equation": "k_num=['C', 'D']\nlen_k = len(k_num)  \ndic_t={'A': 1, 'B': 7, 'C': 8, 'D': 4}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "51": {
+        "answer": "12",
+        "equation": "k_num=['C', 'D']\nlen_k = len(k_num)  \ndic_t={'A': 3, 'B': 9, 'C': 8, 'D': 4}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "52": {
+        "answer": "8",
+        "equation": "dic_t={'A': 8, 'B': 4}\nprint( dic_t['A'] )"
+    },
+    "53": {
+        "answer": "7",
+        "equation": "dic_t={'A': 9, 'B': 7}\nprint( dic_t['B'] )"
+    },
+    "54": {
+        "answer": "29",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 16, 'B': 13}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "55": {
+        "answer": "6",
+        "equation": "dic_t={'A': 13, 'B': 19}\nprint(str(abs(int(dic_t['A'])-int(dic_t['B']))))"
+    },
+    "56": {
+        "answer": "54",
+        "equation": "k_num=['A', 'B']\nlen_k = len(k_num)  \ndic_t={'A': 31, 'B': 23}\nval=0 \nfor i in range(len_k): \n    val +=int(dic_t[k_num[i]])\nprint(str(int(val)))"
+    },
+    "57": {
+        "answer": "6",
+        "equation": "dic_t={'A': 1, 'B': 3, 'C': 6}\nprint( dic_t['C'] )"
+    },
+    "58": {
+        "answer": "2",
+        "equation": "list_t=[8, 9]\nprint( len(list_t) )"
+    },
+    "59": {
+        "answer": "592",
+        "equation": "print(str(int(16*37)))"
+    },
+    "60": {
+        "answer": "1862",
+        "equation": "print(str(int(49*38)))"
+    },
+    "61": {
+        "answer": "3854",
+        "equation": "print(str(int(82*47)))"
+    },
+    "62": {
+        "answer": "3139",
+        "equation": "print(str(int(43*73)))"
+    },
+    "63": {
+        "answer": "37.63",
+        "equation": "print(f'{7.1*5.3:.2f}')"
+    },
+    "64": {
+        "answer": "52.48",
+        "equation": "print(f'{6.4*8.2:.2f}')"
+    },
+    "65": {
+        "answer": "38.23",
+        "equation": "print(f'{5.31*7.2:.2f}')"
+    },
+    "66": {
+        "answer": "64.94",
+        "equation": "print(f'{7.64*8.5:.2f}')"
+    },
+    "67": {
+        "answer": "70.87",
+        "equation": "print(f'{9.3*7.619999999999999:.2f}')"
+    },
+    "68": {
+        "answer": "646.85",
+        "equation": "print(f'{8.5*76.1:.2f}')"
+    },
+    "69": {
+        "answer": "3.95",
+        "equation": "print(f'{9.870000000000001/2.5:.2f}')"
+    },
+    "70": {
+        "answer": "2.54",
+        "equation": "print(f'{8.65/3.4:.2f}')"
+    }
+}
